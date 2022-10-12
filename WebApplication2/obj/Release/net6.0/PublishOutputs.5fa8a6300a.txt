@@ -1,0 +1,7 @@
+C:\Users\rusel\source\repos\WebApplication2\published\WebApplication2.exe
+C:\Users\rusel\source\repos\WebApplication2\published\appsettings.Development.json
+C:\Users\rusel\source\repos\WebApplication2\published\appsettings.json
+C:\Users\rusel\source\repos\WebApplication2\published\WebApplication2.dll
+C:\Users\rusel\source\repos\WebApplication2\published\WebApplication2.deps.json
+C:\Users\rusel\source\repos\WebApplication2\published\WebApplication2.runtimeconfig.json
+C:\Users\rusel\source\repos\WebApplication2\published\WebApplication2.pdb
